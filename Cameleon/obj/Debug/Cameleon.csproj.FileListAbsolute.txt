@@ -1,0 +1,12 @@
+E:\Users\paul_d\source\repos\Cameleon\bin\Debug\Cameleon.exe.config
+E:\Users\paul_d\source\repos\Cameleon\bin\Debug\Cameleon.exe
+E:\Users\paul_d\source\repos\Cameleon\bin\Debug\Cameleon.pdb
+E:\Users\paul_d\source\repos\Cameleon\obj\Debug\Cameleon.csprojAssemblyReference.cache
+E:\Users\paul_d\source\repos\Cameleon\obj\Debug\Cameleon.MainForm.resources
+E:\Users\paul_d\source\repos\Cameleon\obj\Debug\Cameleon.Properties.Resources.resources
+E:\Users\paul_d\source\repos\Cameleon\obj\Debug\Cameleon.csproj.GenerateResource.cache
+E:\Users\paul_d\source\repos\Cameleon\obj\Debug\Cameleon.csproj.CoreCompileInputs.cache
+E:\Users\paul_d\source\repos\Cameleon\obj\Debug\Cameleon.exe
+E:\Users\paul_d\source\repos\Cameleon\obj\Debug\Cameleon.pdb
+E:\Users\paul_d\source\repos\Cameleon\bin\Debug\Found.mdf
+E:\Users\paul_d\source\repos\Cameleon\bin\Debug\Found_log.ldf
